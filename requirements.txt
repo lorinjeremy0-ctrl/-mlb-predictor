@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+requests
+MLB-StatsAPI
+xgboost
+scikit-learn
+joblib
